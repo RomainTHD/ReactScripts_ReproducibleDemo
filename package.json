@@ -1,7 +1,8 @@
 {
 	"name": "test",
 	"scripts": {
-		"start": "set BROWSER=none && react-scripts start"
+		"start": "set BROWSER=none && react-scripts start",
+		"start:working": "set BROWSER=none&& react-scripts start"
 	},
 	"dependencies": {
 		"react": "^18.1.0",
